@@ -1,0 +1,12 @@
+.env
+.idea
+.idea/
+/.docker-sync/
+/.DS_Store/
+.DS_Store
+.vagrant
+.env~
+
+/vendor/
+
+.history/
